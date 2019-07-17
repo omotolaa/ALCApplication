@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ALCApplication</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="name_elizabeth_obisesan">Name: Elizabeth Obisesan</string>
+    <string name="email">Email: omotolaobisesan@gmail.com</string>
+    <string name="mobile">Mobile: +2349094186620</string>
+</resources>
